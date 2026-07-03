@@ -1,0 +1,11 @@
+{
+  "nome": "Sua Marca Aqui",
+  "nicho": "Descreva seu nicho",
+  "handles": {
+    "instagram": "@seuhandle"
+  },
+  "tom_de_voz": "ex: didático e aspiracional",
+  "publico_alvo": "Descreva seu público-alvo",
+  "proposta_de_valor": "Descreva o que você entrega",
+  "produtos": ["Produto 1", "Produto 2", "Produto 3"]
+}

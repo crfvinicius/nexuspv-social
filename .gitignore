@@ -1,0 +1,11 @@
+node_modules/
+*.mp4
+**/frames/
+bun.lockb
+.env
+*.env
+config/gemini.env
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
